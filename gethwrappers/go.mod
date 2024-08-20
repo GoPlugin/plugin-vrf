@@ -1,10 +1,10 @@
-module github.com/goplugin/vrf/gethwrappers
+module github.com/goplugin/plugin-vrf/gethwrappers
 
 go 1.22.3
 
 require (
 	github.com/ethereum/go-ethereum v1.13.8
-	github.com/goplugin/plugin-vrf v0.0.0-20240819054952-c0e614012508
+	github.com/goplugin/plugin-vrf v0.0.0-20240819183008-75dbb1f8353d
 )
 
 require (
