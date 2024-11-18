@@ -4,7 +4,8 @@ go 1.22.3
 
 require (
 	github.com/ethereum/go-ethereum v1.13.8
-	github.com/goplugin/plugin-vrf v0.0.0-20240229152020-3390c480411a
+	github.com/goplugin/plugin-vrf v0.0.2
+	//github.com/goplugin/plugin-vrf v0.0.0-20240229152020-3390c480411a
 )
 
 require (
