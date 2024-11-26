@@ -7,7 +7,7 @@ require (
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
-	github.com/goplugin/plugin-libocr v0.1.1-beta //plugin update changes
+	github.com/goplugin/plugin-libocr v0.1.1-beta
 	//github.com/goplugin/plugin-libocr v0.0.0-20230802221916-2271752fa829
 	go.dedis.ch/fixbuf v1.0.3
 	go.dedis.ch/kyber/v3 v3.0.13
